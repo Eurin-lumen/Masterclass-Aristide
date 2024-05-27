@@ -1,4 +1,3 @@
-Je comprends. Voici les tâches regroupées par catégorie et classées par difficulté, avec une estimation du temps nécessaire pour chaque tâche, présentées dans un format plus clair :
 
 ### Partitionnement et gestion de disques
 
