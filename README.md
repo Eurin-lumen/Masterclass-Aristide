@@ -76,4 +76,3 @@
 | Retrouver le mot de passe d’un wifi et prendre contrôle                       | Moyen      | 1-2 heures    |
 | Optimisation des performances d’un PC                                         | Facile     | 1-2 heures    |
 
-J'espère que ce format est plus clair. N'hésite pas à me demander des détails supplémentaires ou des explications sur une tâche spécifique.
