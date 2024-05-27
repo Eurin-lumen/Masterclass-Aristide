@@ -1,4 +1,3 @@
-Très bien, Eurin. Continuons avec la huitième catégorie : **Transfert de données entre PC et gestion des performances**. Voici un plan de cours détaillé pour cette catégorie.
 
 ## Plan de Cours : Transfert de données entre PC et gestion des performances
 
