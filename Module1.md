@@ -84,4 +84,3 @@ Le cours est structuré en modules, chacun abordant une tâche spécifique. Chaq
 - **Projets pratiques** : réalisation de tâches de partitionnement et réparation sur des machines virtuelles ou des périphériques réels.
 - **Évaluation finale** : un projet complet couvrant toutes les compétences acquises.
 
-Ce plan de cours devrait permettre aux étudiants de développer des compétences solides en partitionnement et gestion de disques. Dis-moi si tu veux que nous commencions la préparation de cours pour les autres catégories !
