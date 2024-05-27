@@ -1,4 +1,4 @@
-D'accord, Eurin. Pour un plan de cours complet, nous allons commencer par la première catégorie : **Partitionnement et gestion de disques**. Voici un plan de cours détaillé pour cette catégorie.
+
 
 ## Plan de Cours : Partitionnement et gestion de disques
 
